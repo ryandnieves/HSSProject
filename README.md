@@ -1,2 +1,2 @@
 # Assignment 1
-(screenshots/hw.png)
+![WebStorm Gulp Config](screenshots/hw.png)
